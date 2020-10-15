@@ -4,9 +4,9 @@
 
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Go developer. I made this chart as a tip for everyone who asks me, "*What should I learn next as a Go developer?*"
 
-[中文版](./i18n/zh-CN/ReadMe-zh-CN.md)
-[日本語版](./i18n/ja-JP/ReadMe-ja-JP.md)
-[Versão em Português do Brasil](./i18n/pt-BR/ReadMe-pt-BR.md)
+[![中文版](https://img.shields.io/badge/%E4%B8%AD%E6%96%87%E7%89%88-df2407?style=for-the-badge)](./i18n/zh-CN/ReadMe-zh-CN.md)
+[![日本語版](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88-be0029?style=for-the-badge)](./i18n/ja-JP/ReadMe-ja-JP.md)
+[![Versão em Português do Brasil](https://img.shields.io/badge/Portugu%C3%AAs%20do%20Brasil-009C3B?style=for-the-badge)](./i18n/pt-BR/ReadMe-pt-BR.md)
 
 ## Disclaimer
 
